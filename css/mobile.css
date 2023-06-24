@@ -1,0 +1,146 @@
+@media only screen and (max-width: 900px) {
+
+/* INICIO SEÇÃO 1 */
+
+.left-container {
+    margin: 0px 20px;
+    padding-top: 50px;
+}
+
+.left-container h1{
+    font-size: 27px;
+}
+
+.left-container ul li{
+    font-size: 14px;
+}
+
+.left-container .btn{
+    font-size: 12px;
+}
+
+.first-section-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.doctor-img-container img{
+    height: 400px;
+    margin: 20px 0px 0px 0px;
+    width: 95%;
+}
+
+/* FIM SEÇÃO 1 */
+
+
+/* INICIO SEÇÃO 2 */
+
+.second-section .second-section-container h2{
+    font-size: 20px;
+}
+  
+.second-section .second-section-container p{
+    font-size: 16px;
+    margin: 20px 10px;
+}
+
+.second-section .second-section-container button{
+    font-size: 12px;
+}
+
+/* FIM SEÇÃO 2 */
+
+
+/* INICIO SEÇÃO 3 */
+
+.third-section-container .logos-img-display {
+    flex-direction: column;  
+}
+
+.third-section-container {
+    margin: 25px 0px;
+}
+
+.btn-s3 button {
+    font-size: 12px;
+}
+
+/* FIM SEÇÃO 3 */
+
+/* INICIO SEÇÃO 4 */
+
+.fourth-section {
+    width: 100%;
+}
+
+.fourth-section-container {
+    padding: 20px 0px 50px 20px; 
+    width: 500px;
+    background-size: 190px;
+    background-position: 200px 160px;
+}
+
+.fourth-section-container h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.fourth-section-container ul {
+    margin-left: 15px;
+}
+
+.fourth-section-container ul p {
+    padding: 2px 0px;
+    font-size: 12px;
+}
+
+.fourth-section-container ul p span {
+    color: #00A0E6;
+    font-weight: bold;
+}
+
+.fourth-section-container .btn-container4 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.fourth-section-container .btn-container4 button {
+    margin: 100px 0px 10px -20px;
+    font-size: 10px;
+    padding: 9px;
+}
+
+/* FIM SEÇÃO 4 */
+
+/* INICIO SEÇÃO 5 */
+
+.fifth-section-display {
+    flex-direction: column;    
+}
+
+.fifth-section .last-txt {
+    width: 90%;
+    margin: 80px 0px 40px 0px;
+    color: #ffffff;
+}
+
+.fifth-section-display .form-container {
+    margin: 40px 0px 0px 0px;
+    padding: 25px 20px;
+}
+
+.fifth-section-display .form-container button a{
+    font-size: 12px;
+}
+
+.fifth-section .last-txt p {
+    font-size: 14px;
+}
+
+/* FIM SEÇÃO 5 */
+}
+    
+    
